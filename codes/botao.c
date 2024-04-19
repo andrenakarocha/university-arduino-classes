@@ -1,4 +1,5 @@
-/* Código para printar texto ao apertar um botão
+//Código para printar texto ao apertar um botão
+
 //Definir Botão
 void setup()
 {
@@ -14,4 +15,4 @@ void loop()
      Serial.println("Botao pressionado!"); //Print
   }
 }
-*/
+
